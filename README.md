@@ -24,5 +24,5 @@ The project focuses on developing essential digital skills, including creating d
 - Google Forms
 
 ## Author
-Adarsh Pratap Singh
-Reg No: 25BCE10285
+Kavish Misra
+Reg No: 25BAI10100
